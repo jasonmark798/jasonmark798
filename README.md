@@ -33,7 +33,7 @@
 <h1 align="center"  height="50" width="60"> 📫 Entre em contato comigo por essas redes sociais!<h1>
 <div align="center"  height="80" width="80"> 
   <a  href="https://www.instagram.com/caua.a_192/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="jasonmark798.github.io/Portfolio2.0/#" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
+  <a href="https://jasonmark798.github.io/Portfolio2.0/#" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/cau%C3%A3-ailton-083412248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   <br>
