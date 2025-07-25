@@ -9,6 +9,7 @@
     tambem! Já estudei Inglês, HTML, CSS, JavaScript. E pretendo no futuro estudar Phyton! 
    
 </p>
+<br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonmark798&show_icons=true&theme=tokyonight)
 
