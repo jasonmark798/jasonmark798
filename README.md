@@ -1,13 +1,8 @@
 <br><h1 align="center" height="60" width="70" >Hello World! Me chamo Cauã Ailton 😀</h1>
 <h3 align="center" height="70" width="70">Seja bem-vindo! 🚀</h3>
 <div align="center"  height="50" width="60" border-radius="30">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonmark798&show_icons=true&theme=tokyonight)
-
-</div>
 
 <br>
-
 <h2 align="center"  height="70" width="80"> 🎮 Um Pouco sobre mim! </h2>
 <p>
     Prazer em conhecer me chamo Cauã Ailton tenho 17 anos atualmente, gosto muito de jogos, filmes e livros de fantasia, estou atualmente entrando
@@ -15,6 +10,13 @@
     tambem! Já estudei Inglês, HTML, CSS, JavaScript. E pretendo no futuro estudar Phyton! 
    
 </p>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonmark798&show_icons=true&theme=tokyonight)
+
+</div>
+
+<br>
+
 
 <br>
 
