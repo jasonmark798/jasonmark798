@@ -41,9 +41,9 @@
     <br>
 </div>
     <br>
-<div align="center" height="80" width="80">
+<div>
   <h1 align="center"  height="50" width="60"> ⌛ Planos futuros</h1>
-<p align="center"  height="10" width="10">Estou a procura de meu primeiro emprego nesta area, mas enquanto não acho um estagio para absorver conhecimento, estudo tudo que é possivel! 
+<p align="center">Estou a procura de meu primeiro emprego nesta area, mas enquanto não acho um estagio para absorver conhecimento, estudo tudo que é possivel! 
     Planejo fazer faculdade de ADS também conhecido como a Tecnológica em Análise e Desenvolvimento de Sistemas! <br>
     Deixarei atualizado aqui o quanto venho aprendendo!
 </p>
