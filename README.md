@@ -41,13 +41,13 @@
     <br>
 </div>
     <br>
-<div>
+
   <h1 align="center"  height="50" width="60"> ⌛ Planos futuros</h1>
 <p align="center">Estou a procura de meu primeiro emprego nesta area, mas enquanto não acho um estagio para absorver conhecimento, estudo tudo que é possivel! 
     Planejo fazer faculdade de ADS também conhecido como a Tecnológica em Análise e Desenvolvimento de Sistemas! <br>
     Deixarei atualizado aqui o quanto venho aprendendo!
 </p>
-</div>
+
   <br>
 
 ![snake gif](https://github.com/jasonmark798/jasonmark798/blob/output/github-contribution-grid-snake.gif)
