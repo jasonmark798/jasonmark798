@@ -40,8 +40,8 @@
   <a href="https://www.linkedin.com/in/cau%C3%A3-ailton-083412248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <br>
 </div>
-    <div>
     <br>
+<div align="center" height="80" width="80">
   <h1 align="center"  height="50" width="60"> ⌛ Planos futuros</h1>
 <p align="center"  height="30" width="40">Estou a procura de meu primeiro emprego nesta area, mas enquanto não acho um estagio para absorver conhecimento, estudo tudo que é possivel! 
     Planejo fazer faculdade de ADS também conhecido como a Tecnológica em Análise e Desenvolvimento de Sistemas! <br>
