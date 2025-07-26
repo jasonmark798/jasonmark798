@@ -16,7 +16,7 @@ Olá me chamo Cauã Ailton tenho atualmente 17 anos e dedico meu tempo ao desenv
 
 #
 
-<h3>LInguagens e tecnologias</h3>
+<h3> 🤖 LInguagens e tecnologias</h3>
 <div style="display: inline_block">
 <img align="left" height="60" width="60" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" height="60" width="60" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,7 +29,7 @@ Olá me chamo Cauã Ailton tenho atualmente 17 anos e dedico meu tempo ao desenv
 #
 
 
-<h3>Estatísticas</h3>
+<h3> 🤖 Estatísticas</h3>
 
 
 
