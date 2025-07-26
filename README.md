@@ -1,4 +1,4 @@
-## Cauã Ailton
+# Cauã Ailton
 
 **`Desenvolvedor Front-end`**
 
@@ -6,9 +6,9 @@
 
 
   
-<br>
 
-<img align="right" alt="" height="190px" src="./">
+
+
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#FF0000&color:#FF0000)](mailto:caua.ailton798@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/cau%C3%A3ailton-portf%C3%B3lio/)
@@ -16,7 +16,11 @@
 
 #
 
-<h3> 🤖 LInguagens e tecnologias</h3>
+
+<img align="right" width="235" height="230" src="./IMG/220233.gif">
+<h3>🤖 LInguagens e tecnologias </h3>
+
+
 
 <br>
 <br>
@@ -32,7 +36,7 @@
 #
 
 
-<h3> 🤖 Estatísticas</h3>
+<h3>🤖 Estatísticas </h3>
 
 <p>
   
