@@ -16,7 +16,6 @@
 
 #
 
-
 <img align="right" width="235" height="230" src="./IMG/220233.gif">
 <h3>🤖 LInguagens e tecnologias </h3>
 
