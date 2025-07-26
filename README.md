@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Olá me chamo Cauã Ailton tenho atualmente 17 anos e dedico meu tempo ao desenvolvimento de habilidades técnicas e criativas, sempre explorando formas de transformar ideias em soluções digitais. Sigo estudando lógicas de programação, html e css, e javascript, no futuro abranger meu portfólio criando sites e projetos! Estou atualmente em busca de um estagio, veja meu [Portfólio](https://jasonmark798.github.io/Portfolio2.0/#) ou meu [LinkedIn](https://www.linkedin.com/in/cau%C3%A3ailton-portf%C3%B3lio/)
+<p align="left"> Olá me chamo Cauã Ailton tenho atualmente 17 anos e dedico meu tempo ao desenvolvimento de habilidades técnicas e criativas, sempre explorando formas de transformar ideias em soluções digitais. Sigo estudando lógicas de programação, html e css, e javascript, no futuro abranger meu portfólio criando sites e projetos! Estou atualmente em busca de um estagio.</p>
 
 
   
@@ -17,6 +17,9 @@ Olá me chamo Cauã Ailton tenho atualmente 17 anos e dedico meu tempo ao desenv
 #
 
 <h3> 🤖 LInguagens e tecnologias</h3>
+
+<br>
+<br>
 <div style="display: inline_block">
 <img align="left" height="60" width="60" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" height="60" width="60" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,7 +34,36 @@ Olá me chamo Cauã Ailton tenho atualmente 17 anos e dedico meu tempo ao desenv
 
 <h3> 🤖 Estatísticas</h3>
 
+<p>
+  
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=jasonmark798&show_icons=true&theme=maroongold&include_all_commits=true&locale=pt-br" 
+  />
 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmark798&theme=maroongold&include_all_commits=true&locale=pt-br&custom_title=Tecnologias"
+  />
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+#
 
 
 <picture align="center">
