@@ -15,11 +15,18 @@
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://jasonmark798.github.io/Portfolio2.0/#)
 
 #
+<table style="border: none;" align="right">
+  <tr>
+    <td>
+        <img align="right" width="235" height="230" src="./IMG/220233.gif">
 
-<img align="right" width="235" height="230" src="./IMG/220233.gif">
+  </td>
+  </tr>
+</table> 
+      
 <h3>🤖 LInguagens e tecnologias </h3>
 
-
+    
 
 <br>
 <br>
@@ -38,33 +45,28 @@
 
 <h3>🤖 Estatísticas </h3>
 
-<p>
-  
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jasonmark798&show_icons=true&theme=maroongold&include_all_commits=true&locale=pt-br" 
-  />
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmark798&theme=maroongold&include_all_commits=true&locale=pt-br&custom_title=Tecnologias"
-  />
+<table style="border: none;">
+  <tr>
+    <td>
+        <img 
+            align="left" 
+            alt="GitHub Stats" 
+            height="200" 
+            src="https://github-readme-stats.vercel.app/api?username=jasonmark798&show_icons=true&theme=maroongold&include_all_commits=true&locale=pt-br" 
+            />
+    </td>
+    <td>
+        <img 
+            align="left" 
+            alt="GitHub Stats" 
+            height="200" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmark798&theme=maroongold&include_all_commits=true&locale=pt-br&custom_title=Tecnologias"
+            />
+    </td>
+  </tr>
+</table>
 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 #
