@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-<p align="left"> Olá me chamo Cauã Ailton tenho atualmente 17 anos e dedico meu tempo ao desenvolvimento de habilidades técnicas e criativas, sempre explorando formas de transformar ideias em soluções digitais. Sigo estudando lógicas de programação, html e css, e javascript, no futuro abranger meu portfólio criando sites e projetos! Estou atualmente em busca de um estagio.</p>
+<p align="left"> Olá me chamo Cauã Ailton tenho atualmente 18 anos e dedico meu tempo ao desenvolvimento de habilidades técnicas e criativas, sempre explorando formas de transformar ideias em soluções digitais. Sigo estudando lógicas de programação, html e css, e javascript, no futuro abranger meu portfólio criando sites e projetos! Estou atualmente em busca de um estagio.</p>
 
 
   
