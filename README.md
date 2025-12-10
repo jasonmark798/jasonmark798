@@ -24,7 +24,7 @@
   </tr>
 </table> 
       
-<h3>🤖 LInguagens e tecnologias </h3>
+<h3>🤖 LInguagens e tecnologias que estou aprendendo!</h3>
 
       
 
