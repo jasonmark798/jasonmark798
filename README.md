@@ -67,7 +67,7 @@
     </td>
     <td>
         <img 
-            align="left" 
+            align="right" 
             alt="GitHub Stats" 
             height="220" 
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmark798&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Tecnologias"
