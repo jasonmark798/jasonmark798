@@ -61,7 +61,7 @@
         <img 
             align="left" 
             alt="GitHub Stats" 
-            height="200" 
+            height="220" 
             src="https://github-readme-stats.vercel.app/api?username=jasonmark798&show_icons=true&theme=tokyonight" 
             />
     </td>
@@ -69,8 +69,8 @@
         <img 
             align="left" 
             alt="GitHub Stats" 
-            height="200" 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmark798&theme=maroongold&include_all_commits=true&locale=pt-br&custom_title=Tecnologias"
+            height="220" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmark798&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Tecnologias"
             />
     </td>
   </tr>
