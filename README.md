@@ -62,7 +62,7 @@
 <table style="border: none;">
   <tr>
     <td>
-        <img 
+          <img 
             align="left" 
             alt="GitHub Stats" 
             height="220" 
